@@ -1,6 +1,7 @@
 Checkpoint: Create an html form that includes the following fields: email input, password input, Github username input, account type radio, remember me checkbox.
 
-<!-- <!DOCTYPE html> -->
+```
+<!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -39,10 +40,7 @@ Checkpoint: Create an html form that includes the following fields: email input,
       </div>
       <br>
       <button type="submit" name="submit">Submit</button>
-
     </form>
-
-
-
   </body>
 </html>
+```
