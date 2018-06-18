@@ -1,6 +1,6 @@
 Checkpoint: Create an html form that includes the following fields: email input, password input, Github username input, account type radio, remember me checkbox.
 
-![Imgur](https://i.imgur.com/pxnNtZD.png)
+![Preview](https://i.imgur.com/pxnNtZD.png)
 
 
 ```
